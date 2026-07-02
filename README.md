@@ -217,3 +217,9 @@ The complete project report is available in:
 ```
 report/EEG_Seizure_Classification_Report.pdf
 ```
+
+---
+
+## License
+
+This project was developed for educational purposes.
